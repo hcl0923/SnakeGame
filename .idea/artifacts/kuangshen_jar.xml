@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kuangshen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kuangshen_jar</output-path>
+    <root id="archive" name="kuangshen.jar">
+      <element id="module-output" name="hcl" />
+    </root>
+  </artifact>
+</component>
